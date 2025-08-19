@@ -1,6 +1,5 @@
 # Fine-Tuned-LLM-model---AI-Agent
-“Fine-tuned LLM with Unsloth, integrated into an AI Agent workflow using LangChain and LangGraph for efficient, scalable reasoning.”
-
+“Fine-tuned LLM with Unsloth using LoRA/QLoRA, integrated into an AI Agent workflow with LangChain and LangGraph for efficient, scalable reasoning.”
 
 ---
 base_model: unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit
